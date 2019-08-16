@@ -1,5 +1,5 @@
 # Description
-Its a demo project to illustrate spring session with redis.
+Its a demo project to illustrate spring session with redis. Sometimes in some cases it can be a good idea to use session for storing user data in rest APIs too. 
 
 # Working
 Here, I have used spring security's default login and logout mechanism to illustrate spring session with redis. You can use cURL command to check the functionality.
