@@ -56,4 +56,3 @@ Date: Fri, 16 Aug 2019 07:24:07 GMT
 
 {"resource":"here is some resource"}
 
-aks@SDL6726:~$
